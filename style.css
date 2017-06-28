@@ -1,0 +1,23 @@
+
+
+#box { border: solid 2px black; border-radius: 4px; height: 150px; width: 300px; }
+button { background-color: #efedea;border : none; border-radius: 10px; box-shadow: 2px 4px 2px #a7b6ce; 
+	width: 100px; height: 60px; margin: 30px; transition: all 0.3s ease;}
+button:hover { background :linear-gradient(60deg, rgba(250, 105, 0, 0.4) 2%,
+   rgba(105, 210, 231, 0.7)) }
+.pierre 
+.pierre img { width: 200px; height:  200px;}
+/*.element { display: flex; justify-content: center; }*/
+
+.ordi { width: 300px; }
+i:hover { color: #b25621; }
+
+
+.containe { background: url(michel.jpg) fixed no-repeat; background-size: cover;}
+.row { text-align: center;
+
+}
+footer { height: 200px; border: solid 5px black; width: 100%;  }
+footer p { font-size: 40px; text-align: center; margin-top: 5%;}
+.score { width: 40%; }
+@media all and()
